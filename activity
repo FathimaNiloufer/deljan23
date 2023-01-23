@@ -1,3 +1,4 @@
 Name = "Deloitte"
 Batch = "2023 Jan"
 print (" welcoming new {} batch of company {}.format(Batch,Name)")
+Personal Nmae = "Chiranth R"
